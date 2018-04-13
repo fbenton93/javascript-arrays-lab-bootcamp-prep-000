@@ -30,5 +30,6 @@ function prependKitten(name) {
   return moar_kittens
 }
 
-function removeLastKitten()
+function removeLastKitten() {
   var less_kittens = kittens.slice(0,kittens.length - 1)
+}
