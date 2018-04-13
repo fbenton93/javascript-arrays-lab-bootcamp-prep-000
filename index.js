@@ -29,3 +29,6 @@ function prependKitten(name) {
   var moar_kittens = [name,...kittens]
   return moar_kittens
 }
+
+function removeLastKitten()
+  var less_kittens = kittens.
